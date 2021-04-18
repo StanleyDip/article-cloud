@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Article Cloud
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have used mediastack API call to implement the app, hence I have used "AXIOS"
 
-## Available Scripts
+## BOOTSTRAP|REACTSTRAP|USESTATE|USEEFFECT|REACT ROUTE,SWITCH all these properties have been used
 
 In the project directory, you can run:
 
