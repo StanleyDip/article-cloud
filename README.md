@@ -2,14 +2,13 @@
 
 I have used mediastack API call to implement the app, hence I have used "AXIOS"
 
-## BOOTSTRAP|REACTSTRAP|USESTATE|USEEFFECT|REACT ROUTE,SWITCH all these properties have been used
+## BOOTSTRAP| REACTSTRAP| USESTATE| USEEFFECT| REACT ROUTE,SWITCH| PAGINATION all these properties have been used
 
 In the project directory, you can run:
 
-### `npm start`
+### `mediastack` https://mediastack.com/documentation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+When the app loads, it first fetchs the Articles from the API up 25 articles and I have divided it into (25/5 =5) sets
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
